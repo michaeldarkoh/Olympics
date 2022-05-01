@@ -1,0 +1,14 @@
+name: Shiny
+title: Shiny
+username:
+account: michaeldarkoh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6208655
+bundleId: 5856302
+url: https://michaeldarkoh.shinyapps.io/Shiny/
+when: 1651382896.80906
+lastSyncTime: 1651382896.80908
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|cc_v3.csv|Shiny_App.R|www/.DS_Store
